@@ -10,3 +10,4 @@ Deep Learning using Tensorflow 2.0 and Keras
 1. CIFAR-10 Image Classification
 2. Data Augmentation and Dropout layers on Flower Classification
 3. CNN Optimization using KerasTuner on FashionMNIST
+4. Malaria Detection using Transfer Learning VGG19
