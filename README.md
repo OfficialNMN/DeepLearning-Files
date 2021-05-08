@@ -11,3 +11,6 @@ Deep Learning using Tensorflow 2.0 and Keras
 2. Data Augmentation and Dropout layers on Flower Classification
 3. CNN Optimization using KerasTuner on FashionMNIST
 4. Malaria Detection using Transfer Learning VGG19
+
+### Recurrent Neural Network (RNN)-
+1. Fake News Classification using LSTM
