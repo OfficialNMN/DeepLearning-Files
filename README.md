@@ -15,3 +15,4 @@ Deep Learning using Tensorflow 2.0 and Keras
 ### Recurrent Neural Network (RNN)-
 1. Fake News Classification using LSTM
 2. Ethereum Price Prediction using Stacked RNN LSTM layers
+3. BERT
